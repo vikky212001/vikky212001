@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikky212001&label=Profile%20views&color=0e75b6&style=flat" alt="vikky212001" /> </p>
 
 - 🔭 I’m currently working on [Med_Preserve Data Acquisition Sysytem](https://github.com/vikky212001/Med_Preserve)
